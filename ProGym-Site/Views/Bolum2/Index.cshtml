@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ProGym_Site.Models.Bolum2>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>AnaSayfa - Bölüm 2</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Madde1Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Madde1icerik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Madde2Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Madde2icerik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Madde3Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Madde3icerik)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Baslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Madde1Baslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Madde1icerik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Madde2Baslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Madde2icerik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Madde3Baslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Madde3icerik)
+        </td>
+        <td>
+            @Html.ActionLink("Düzenle", "Edit", new { id=item.Bolum2Id })
+        </td>
+    </tr>
+}
+
+</table>

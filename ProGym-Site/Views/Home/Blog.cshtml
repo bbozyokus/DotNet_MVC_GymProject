@@ -1,0 +1,70 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<ProGym_Site.Models.Blog>
+@using ProGym_Site.Helper;
+@{
+    ViewBag.Title = "Blog";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<!-- Page top section -->
+<section class="page-top-section set-bg" data-setbg="/Content/SiteLayout/img/header-bg/3.jpg">
+    <div class="container">
+        <h2>Blog - Duyurular</h2>
+    </div>
+</section>
+<!-- Page top section end -->
+<!-- Blog section -->
+<section class="blog-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                @foreach (var item in Model)
+                {
+                <div class="blog-item">
+                    <img src="@item.ResimURL" alt="@Html.Raw(item.Baslik)">
+                    <h2><a style="color:black;" href="/BlogPost/@SeoHelper.ToSeoUrl(item.Baslik).ToLower()-@item.BlogId">@Html.Raw(item.Baslik)</a></h2>
+                    <div class="blog-metas">
+
+                        <div class="blog-meta"><img src="/Content/SiteLayout/img/icons/layout.png" alt="@Html.Raw(item.Kategori.KategoriAd)">@Html.Raw(item.Kategori.KategoriAd)</div>
+                        @*<div class="blog-meta"><img src="/Content/SiteLayout/img/icons/profile.png" alt="">2 comments</div>*@
+                    </div>
+                    @*<p>@Html.Raw(item.Icerik.Substring(0, 5))...</p>*@
+                    @if (item.Icerik.Length < 200)
+                    {
+                        @Html.Raw(item.Icerik.ToString())
+
+                    }
+                    else
+                    {
+                        @Html.Raw(item.Icerik.Substring(0, 200) + "...")
+                    }
+                    <br />
+                    <a href="/BlogPost/@SeoHelper.ToSeoUrl(item.Baslik).ToLower()-@item.BlogId" class="site-btn">Okumaya devam et</a>
+                </div>
+                }
+
+                <div class="site-pagination">
+                    @Html.PagedListPager(Model, Page => Url.Action("Blog", new { Page }), PagedListRenderOptions.Classic)
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-7 col-sm-9 sidebar">
+                <div class="widget-area">
+                    <form class="search-widget">
+                        <input type="text" placeholder="Search">
+                        <button><img src="/Content/SiteLayout/img/icons/search.png" alt=""></button>
+                    </form>
+                </div>
+
+                @{ Html.RenderAction("BlogKategoriPartial", "Home");}
+                <div class="widget-area">
+                    <h2 class="widget-title">Son Gönderiler</h2>
+                    <div class="recent-post-widget">
+                        @{ Html.RenderAction("BlogKayitPartial", "Home");}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog section end -->

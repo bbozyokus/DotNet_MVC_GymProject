@@ -1,0 +1,67 @@
+﻿@model ProGym_Site.Models.Bolum4
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<script type="text/javascript">
+    CKEDITOR.replace('editor');
+</script>
+
+<h2>Fiyat Bilgisi Düzenle</h2>
+
+@using (Html.BeginForm("Edit", "Bolum4", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Bolum4Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FiyatBaslik, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FiyatBaslik, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.FiyatBaslik, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FiyatAciklama, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <textarea name="FiyatAciklama" id="editor" class="ckeditor">@Model.FiyatAciklama</textarea>
+                @Html.ValidationMessageFor(model => model.FiyatAciklama, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FiyatResim, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="FiyatResim" class="form-control" placeholder="Resim Seçiniz" />
+                @Html.ValidationMessageFor(model => model.FiyatResim, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Kaydet" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    CKEDITOR.replace('editor');
+    $("form").submit(function (e) {
+        var messageLength = CKEDITOR.instances['editor'].getData().replace(/<[^>]*>/gi, '').length;
+        if (!messageLength) {
+            alert('Lütfen içerik alanını boş bırakmayın ! ');
+            e.preventDefault();
+        }
+    });
+</script>
+
+<div>
+    @Html.ActionLink("Geri Dön", "Index")
+</div>

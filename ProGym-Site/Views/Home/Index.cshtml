@@ -1,0 +1,17 @@
+﻿@{
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+    ViewBag.Title = "Anasayfa";
+}
+
+
+<!-- Hero section -->
+@{Html.RenderAction("AnaGorsel", "Home");}
+<!-- Hero section -->
+<!-- Feature section -->
+@{ Html.RenderAction("Bolum2Partial", "Home");}
+<!-- Feature section end -->
+<!-- Add section -->
+@{ Html.RenderAction("Bolum3Partial", "Home");}
+<!-- Add section end -->
+
+

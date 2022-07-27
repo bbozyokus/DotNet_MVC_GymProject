@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProGym_Site.Models.Bolum4>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Fiyat Bilgisi</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FiyatBaslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FiyatAciklama)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FiyatResim)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FiyatBaslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FiyatAciklama)
+        </td>
+        <td>
+            @if (item.FiyatResim != null && String.IsNullOrEmpty(item.FiyatResim) == false)
+            {
+                <img class="img-responsive" src="@item.FiyatResim" width="130" height="60" />
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Güncelle", "Edit", new { id=item.Bolum4Id })
+        </td>
+    </tr>
+}
+
+</table>

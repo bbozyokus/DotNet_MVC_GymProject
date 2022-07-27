@@ -1,0 +1,11 @@
+﻿@model IEnumerable<ProGym_Site.Models.Kategori>
+@using ProGym_Site.Helper;
+<div class="widget-area">
+    <h2 class="widget-title">Kategoriler</h2>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="/BlogPost/@SeoHelper.ToSeoUrl(item.KategoriAd).ToLower()/@item.KategoriId">@item.KategoriAd<span>@item.Blogs.Count()</span></a></li>
+        }
+    </ul>
+</div>

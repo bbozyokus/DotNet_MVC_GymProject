@@ -1,0 +1,62 @@
+﻿@model ProGym_Site.Models.Iletisim
+
+@{
+    ViewBag.Title = "Iletisim";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<!-- Page top section -->
+<section class="page-top-section set-bg" data-setbg="/Content/SiteLayout/img/header-bg/4.jpg">
+    <div class="container">
+        <h2>İletişim</h2>
+    </div>
+</section>
+<!-- Page top section end -->
+<!-- Contact section -->
+<section class="contact-section">
+    <h2 class="contact-title text-center">İletişim Bilgileri</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+
+                <div class="contact-info-warp">
+                    <h4>Konum</h4>
+                    <div class="contact-info">
+                        <img src="/Content/SiteLayout/img/icons/1-dark.png" alt="ProGym Spor Salonu Adresi">
+                        <div class="cf-text">
+                            <p>@Model.Adres</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm">
+                <div class="contact-info-warp">
+                    <h4>Telefon</h4>
+                    <div class="contact-info">
+                        <img src="/Content/SiteLayout/img/icons/2-dark.png" alt="ProGym Spor Salonu Telefon Numarası">
+                        <div class="cf-text">
+                            <p>@Model.Tel</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm">
+                <div class="contact-info-warp">
+                    <h4>E-Posta</h4>
+                    <div class="contact-info">
+                        <img src="/Content/SiteLayout/img/icons/3-dark.png" alt="ProGym Spor Salonu E-posta adresi">
+                        <div class="cf-text">
+                            <p>@Model.Email</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.2535501769603!2d29.122112615414387!3d41.01970847929967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa41b3d49f5ab%3A0x474a76df4380dd18!2sPROGYM!5e0!3m2!1str!2str!4v1614871561841!5m2!1str!2str" style="border:0" allowfullscreen></iframe></div>
+</section>
+<!-- Contact section end -->

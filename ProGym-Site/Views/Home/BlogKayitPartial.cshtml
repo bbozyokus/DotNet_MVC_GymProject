@@ -1,0 +1,16 @@
+﻿@using ProGym_Site.Helper;
+
+@model IEnumerable<ProGym_Site.Models.Blog>
+
+@foreach (var item in Model.Take(5))
+{
+        <div class="rp-item">
+            <img src="@item.ResimURL" alt="@item.Baslik" width="142" height="92">
+            <div class="rp-text">
+                <p><a style="color:black;" href="/BlogPost/@SeoHelper.ToSeoUrl(item.Baslik).ToLower()-@item.BlogId">@item.Baslik</a></p>
+                <div class="rp-date">@item.Kategori.KategoriAd</div>
+            </div>
+        </div>
+        <br />   
+}
+

@@ -1,0 +1,26 @@
+﻿@model ProGym_Site.Models.Bolum3
+
+@{
+    Layout = null;
+}
+
+<section class="add-section set-bg" data-setbg="@Model.ResimURL2">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 ml-auto">
+                <div class="add-text">
+                    <h2><span>@Model.Bolum3Baslik</span></h2>
+                    <ul>
+                        <li><img src="/Content/SiteLayout/img/check-icon.png" alt="">@Model.Aciklama1</li>
+                        <li><img src="/Content/SiteLayout/img/check-icon.png" alt="">@Model.Aciklama2</li>
+                        <li><img src="/Content/SiteLayout/img/check-icon.png" alt="">@Model.Aciklama3</li>
+                        <li><img src="/Content/SiteLayout/img/check-icon.png" alt="">@Model.Aciklama4</li>
+                        <li><img src="/Content/SiteLayout/img/check-icon.png" alt="">@Model.Aciklama5</li>
+                        <li><img src="/Content/SiteLayout/img/check-icon.png" alt="">@Model.Aciklama6</li>
+                    </ul>
+                    <a href="/Iletisim/" class="site-btn">İletişim</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

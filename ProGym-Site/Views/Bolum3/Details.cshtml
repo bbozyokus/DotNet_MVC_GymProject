@@ -1,0 +1,83 @@
+﻿@model ProGym_Site.Models.Bolum3
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Detaylar</h2>
+
+<div>
+    <h4>Bölüm 3</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Bolum3Baslik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bolum3Baslik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama4)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama4)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama5)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama5)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama6)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama6)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ResimURL2)
+        </dt>
+
+        <dd>
+            <img class="img-responsive" src="@Model.ResimURL2" width="130" height="60" />
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Geri Dön", "Index") |
+    @Html.ActionLink("Güncelle", "Edit", new { id = Model.Bolum3Id })
+</p>

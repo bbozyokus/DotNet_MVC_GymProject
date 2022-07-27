@@ -1,0 +1,59 @@
+﻿@model ProGym_Site.Models.Iletisim
+
+@{
+    Layout = null;
+}
+
+<!-- Footer section -->
+<footer class="footer-section set-bg" data-setbg="/Content/SiteLayout/img/footer-bg.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="footer-widget">
+                    <h4>Adresimiz</h4>
+                    <div class="fw-info-box">
+                        <img src="/Content/SiteLayout/img/icons/1.png" alt="ProGym Spor Salonu Adresi">
+                        <div class="fw-info-text">
+                            <p>@Model.Adres</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="footer-widget">
+                    <h4>Numaramız</h4>
+                    <div class="fw-info-box">
+                        <img src="/Content/SiteLayout/img/icons/2.png" alt="ProGym Telefon Numarası">
+                        <div class="fw-info-text">
+                            <p>@Model.Tel</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="footer-widget">
+                    <h4>E-Posta Adresimiz</h4>
+                    <div class="fw-info-box">
+                        <img src="/Content/SiteLayout/img/icons/3.png" alt="ProGym E-Posta adresi">
+                        <div class="fw-info-text">
+                            <p>@Model.Email</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="footer-widget">
+                    <h4>Sosyal Medyada Biz</h4>
+                    <div class="fw-info-box">
+                        <img src="/Content/SiteLayout/img/icons/4.png" alt="Sosyal Medya Adreslerimiz">
+                        <div class="social-links">
+                            <a href="@Model.Facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="@Model.Instagram"><i class="fa fa-instagram"></i></a>
+                            <a href="@Model.Twitter"><i class="fa fa-twitter"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

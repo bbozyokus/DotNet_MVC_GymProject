@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ProGym_Site.Models.Hakkimizda>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama)
+            
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Anagorsel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ResimURL)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.Raw(item.Aciklama)
+        </td>
+        <td>
+            <img class="img-responsive" src="@item.Anagorsel" width="130" height="60" />
+        </td>
+        <td>
+            <img class="img-responsive" src="@item.ResimURL" width="130" height="60" />
+        </td>
+        <td>
+            @Html.ActionLink("Güncelle", "Edit", new { id=item.HakkimizdaId })
+            
+        </td>
+    </tr>
+}
+
+</table>

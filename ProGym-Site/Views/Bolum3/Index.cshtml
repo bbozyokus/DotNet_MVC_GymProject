@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ProGym_Site.Models.Bolum3>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>AnaSayfa - Bölüm 3 </h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Bolum3Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama4)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama5)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama6)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ResimURL2)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Bolum3Baslik)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Aciklama1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Aciklama2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Aciklama3)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Aciklama4)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Aciklama5)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Aciklama6)
+    </td>
+    <td>
+        <img class="img-responsive" src="@item.ResimURL2" width="130" height="60" />
+    </td>
+    <td>
+        @Html.ActionLink("Güncelle", "Edit", new { id = item.Bolum3Id }) |
+        @Html.ActionLink("Detaylar", "Details", new { id = item.Bolum3Id })
+
+    </td>
+</tr>
+}
+
+</table>

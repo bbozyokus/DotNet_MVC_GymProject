@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ProGym_Site.Models.Hizmet>
+
+@{ int i = 1;}
+
+@{
+    ViewBag.Title = "Salonumuz";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<head>
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="~/Content/SiteLayout/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/SiteLayout/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/Content/SiteLayout/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="~/Content/SiteLayout/css/flaticon.css" />
+    <link rel="stylesheet" href="~/Content/SiteLayout/css/slicknav.min.css" />
+
+    <!-- Main Stylesheets -->
+    <link rel="stylesheet" href="~/Content/SiteLayout/css/style.css" />
+</head>
+
+<body>
+    <!-- Page top section -->
+    <section class="page-top-section set-bg" data-setbg="/Content/SiteLayout/img/header-bg/2.jpg">
+        <div class="container">
+            <h3 style="color: yellow;"><font size="10">Sık Sorulan Sorular</font></h3>
+        </div>
+    </section>
+    <!-- Page top section end -->
+    <p></p>
+
+    <section class="elements-section ">
+        <div class="container">
+
+            <div class="element">
+                <h2 class="el-title text-center ">Sık Sorulan Sorular</h2>
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <!-- Accordions -->
+                        <div id="accordion" class="accordion-area">
+
+                            @foreach (var item in Model)
+                            {
+                                <div class="panel">   
+                                    <div class="panel-header" id="headingOne">
+                                        <button class="panel-link" data-toggle="collapse" data-target="#collapse_@i" aria-expanded="false" aria-controls="collapse_@i">@Html.Raw(item.Baslik)</button>
+                                    </div>
+                                    <div id="collapse_@i" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="panel-body">
+                                            @if (item.ResimURL != null && String.IsNullOrEmpty(item.ResimURL) == false)
+                                            {
+                                                <img src="@item.ResimURL" class="img-fluid" alt="Responsive image">
+                                            }
+                                            <p>@Html.Raw(item.Aciklama) </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                i++;
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>

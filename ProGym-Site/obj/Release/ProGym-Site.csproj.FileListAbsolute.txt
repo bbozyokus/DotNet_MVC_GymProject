@@ -1,0 +1,172 @@
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\ProGym-Site.dll.config
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\ProGym-Site.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\ProGym-Site.pdb
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csc.exe
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csc.exe.config
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csc.rsp
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csi.exe
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csi.exe.config
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csi.rsp
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.AppContext.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Console.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.Compression.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Net.Http.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.ValueTuple.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\vbc.exe
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\vbc.exe.config
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\vbc.rsp
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csprojAssemblyReference.cache
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.Bolum3ColumnUpdate.resources
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.hizmetkarakter.resources
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.hizmetbaslikkarakter.resources
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.dbfiyat.resources
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.dbbolumupdate2.resources
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.GenerateResource.cache
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.CoreCompileInputs.cache
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.CopyComplete
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.pdb
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.SqlServer.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.Mvc.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Helpers.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Mvc.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Razor.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.SqlServer.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.Mvc.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Helpers.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Mvc.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Razor.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\bbozyokus\Desktop\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\ProGym-Site.dll.config
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\ProGym-Site.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\ProGym-Site.pdb
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csc.exe
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csc.exe.config
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csc.rsp
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csi.exe
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csi.exe.config
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\csi.rsp
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.AppContext.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Collections.Immutable.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Console.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Globalization.Calendars.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.Compression.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.FileSystem.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Net.Http.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Net.Sockets.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.ValueTuple.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.XPath.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\vbc.exe
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\vbc.exe.config
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\vbc.rsp
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\VBCSCompiler.exe
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\roslyn\VBCSCompiler.exe.config
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.SqlServer.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\Microsoft.Web.Infrastructure.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.Mvc.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Helpers.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Mvc.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Razor.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Deployment.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Razor.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\EntityFramework.SqlServer.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\PagedList.Mvc.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Helpers.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Mvc.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.Razor.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Deployment.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\System.Web.WebPages.Razor.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.Bolum3ColumnUpdate.resources
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.hizmetkarakter.resources
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.hizmetbaslikkarakter.resources
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.dbfiyat.resources
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym_Site.Migrations.dbbolumupdate2.resources
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.GenerateResource.cache
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.CoreCompileInputs.cache
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.CopyComplete
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.dll
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.pdb
+E:\WebProjeler\ProGym Son hali\Progym-Proje\ProGym-Site\ProGym-Site\ProGym-Site\obj\Release\ProGym-Site.csproj.AssemblyReference.cache

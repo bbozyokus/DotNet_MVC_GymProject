@@ -1,0 +1,20 @@
+﻿@model ProGym_Site.Models.Slider
+
+@{ 
+    Layout = null;
+}
+<!-- Hero section -->
+
+    <section class="hero-section set-bg" data-setbg="@Model.ResimURL">
+        <div class="container">
+            <div class="hero-text">
+                <h2><span>@Html.Raw(Model.Baslik)</span></h2>
+                <h2><span>@Html.Raw(Model.Aciklama)</span></h2>
+                <a href="/Iletisim/" class="site-btn">Bize Katılın !</a>
+            </div>
+        </div>
+    </section>
+
+
+
+<!-- Hero section end -->

@@ -1,0 +1,28 @@
+﻿@model ProGym_Site.Models.Iletisim
+
+@{
+    Layout = null;
+}
+
+<header class="header-section">
+    <a href="/Anasayfa/" class="site-logo">
+        <img src="/Content/SiteLayout/img/progym-logo.png" width="160" height="130" alt="ProGym Spor Salonu">
+    </a>
+    <ul class="main-menu">
+        <li><a class="active" href="/Anasayfa/">Anasayfa</a></li>
+        <li><a href="/Hakkimizda/">Hakkımızda</a></li>
+        <li><a href="/SSS/">Sık Sorulan Sorular</a></li>
+        <li><a href="/BlogPost/">Gym Blog</a></li> 
+        <!--<li><a href="https://rande.vu/progym-spor-salonu">Hızlı Randevu</a></li>-->
+        <li><a href="/FiyatBilgisi/">Fiyat Bilgisi</a></li>
+        <li><a href="/Iletisim/">İletişim</a></li>
+
+        <li class="header-right">
+            <div class="hr-box">
+                <img src="/Content/SiteLayout/img/location-icon.png" alt="ProGym Spor Salonu Adresi">
+                <h6>@Html.Raw(Model.Adres)</h6>
+            </div>
+        </li>
+    </ul>
+</header>
+@*<div class="clearfix"></div>*@
